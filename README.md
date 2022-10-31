@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muditvir
-- 👀 I’m interested in Machine Learning, Web Development
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on Development Projects
+- 👀 I’m interested in Machine Learning, Web Development, DevOps.
+- 🌱 I’m currently learning NLP.
+- 💞️ I’m looking to collaborate on all types of development projects.
 - 📫 Email - mvirmani02@gmail.com
 
 <!---
